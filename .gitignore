@@ -1,0 +1,9 @@
+# source models, textures and intermediates are not part of the site
+tools/in/
+tools/*.npz
+tools/*.png
+tools/__pycache__/
+*.hdr
+*.zip
+*.wav
+.DS_Store
